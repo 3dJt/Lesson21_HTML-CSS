@@ -1,0 +1,19 @@
+.proverb {
+    color: grey;
+}
+
+.first {
+    color: rgb(245, 129, 125);
+}
+
+.second {
+    color: rgb(245, 129, 125);
+}
+
+.third {
+    color: rgb(245, 129, 125);
+}
+
+body {
+    background-image: url("bg.png");
+}
